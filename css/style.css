@@ -1,0 +1,23 @@
+.title 
+{ 
+    color: rgb(77, 11, 153); 
+    
+    text-align: center;
+} 
+
+.títulos 
+{ 
+    color: rgb(158, 86, 143) ; 
+    
+    text-align: center;
+    border: 4px rgb(241, 206, 5) solid; 
+} 
+
+
+
+.body 
+{ 
+    border: 10px rgb(159, 140, 245) solid; 
+    padding-bottom: 5px;   
+    width: 40%  ;
+}
